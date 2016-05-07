@@ -4,6 +4,7 @@ how are you.
 I m fine thank you
 
 
+<<<<<<< HEAD
 all right
 
 then bye......
@@ -26,3 +27,6 @@ osnlsmg
 =======
 newfeturere
 >>>>>>> parent of e8bfd7c... new comit
+=======
+all right
+>>>>>>> parent of 4f79424... forth commit
