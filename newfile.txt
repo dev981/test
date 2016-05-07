@@ -17,6 +17,12 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 
 hotfix
 
+<<<<<<< HEAD
 newfeturere
 kdshksjhkj
-nskdjjgld;l
+nskdjjgld;lkjndskjngkn
+;dsgnlksngl
+osnlsmg
+=======
+newfeturere
+>>>>>>> parent of e8bfd7c... new comit
