@@ -1,6 +1,7 @@
 hi 
 how are you.
 
+<<<<<<< HEAD
 I m fine thank you
 
 
@@ -30,3 +31,6 @@ newfeturere
 =======
 all right
 >>>>>>> parent of 4f79424... forth commit
+=======
+I m fine thank you
+>>>>>>> parent of 278e8c5... third commit
